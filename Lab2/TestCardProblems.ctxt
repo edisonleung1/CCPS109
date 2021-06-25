@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=rng\ len
+comment0.target=java.lang.String\ createHand(java.util.Random,\ int)
+comment1.params=
+comment1.target=void\ testHasFlush()
+comment2.params=
+comment2.target=void\ testFourOfAKind()
+comment3.params=
+comment3.target=void\ testWinningCard()
+comment4.params=
+comment4.target=void\ testHasFourCardBadugi()
+numComments=5

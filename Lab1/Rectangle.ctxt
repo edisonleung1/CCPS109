@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=w\ h
+comment0.target=void\ setDimensions(double,\ double)
+comment1.params=
+comment1.target=double\ getArea()
+comment2.params=
+comment2.target=double\ getPerimeter()
+comment3.params=sf
+comment3.target=void\ scale(double)
+comment4.params=
+comment4.target=java.lang.String\ answer()
+numComments=5

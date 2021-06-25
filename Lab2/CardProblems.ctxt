@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=hand
+comment0.target=boolean\ hasFlush(java.lang.String)
+comment0.text=\n\ hasflush\n
+comment1.params=hand
+comment1.target=boolean\ hasFourOfAKind(java.lang.String)
+comment1.text=\n\ hasFourOfAKind\n
+comment2.params=hand
+comment2.target=boolean\ hasFourCardBadugi(java.lang.String)
+comment2.text=\n\ chasFourCardBadugi\n
+comment3.params=c
+comment3.target=int\ getRank(char)
+comment3.text=\n\ winningCard\n
+comment4.params=play
+comment4.target=java.lang.String\ winningCard(java.lang.String)
+comment4.text=\n\ winningCard\n
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=a\ b\ c
+comment0.target=boolean\ isTriangle(double,\ double,\ double)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ MidtermW17\n
+comment1.params=a\ b
+comment1.target=java.lang.String\ disjointDifference(java.lang.String,\ java.lang.String)
+comment1.text=\n
+comment2.params=n
+comment2.target=int\ largestDigit(int)
+comment2.text=\n
+comment3.params=a\ b
+comment3.target=boolean\ patternMatch(java.lang.String,\ java.lang.String)
+comment3.text=\n
+numComments=4

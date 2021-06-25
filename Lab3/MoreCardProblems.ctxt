@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=int\ point(char)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ MoreCardProblems\n
+comment1.params=hand
+comment1.target=int\ bridgePointCount(java.lang.String)
+comment2.params=c
+comment2.target=int\ point2(char)
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ MoreCardProblems\n
+comment3.params=hand
+comment3.target=int\ countDeadwood(java.lang.String)
+comment4.params=hand
+comment4.target=java.lang.String\ bridgeHandShape(java.lang.String)
+comment4.text=\n\ Constructor\ for\ objects\ of\ class\ MoreCardProblems\n
+comment5.params=hand
+comment5.target=boolean\ hasFullHouse(java.lang.String)
+comment5.text=\n\ Constructor\ for\ objects\ of\ class\ MoreCardProblems\n
+numComments=6
